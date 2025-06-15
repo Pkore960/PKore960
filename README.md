@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Pranav Kore
-
-I'm a **SDE Intern at [HERE Technologies](https://www.here.com/)** focused on building reliable backend systems and learning new technologies.  
+ 
 I’m a Computer Engineering graduate with hands-on experience in backend and full-stack development. Proficient in Java, Spring Boot, Node.js, AWS Lambda and REST APIs. Completed internship at [HERE Technologies](https://www.here.com/), focusing on optimising cloud functions and building scalable APIs.
 
 ---
